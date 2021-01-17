@@ -1,1 +1,2 @@
-# rd-proj
+# RainyDays-Project
+School project
